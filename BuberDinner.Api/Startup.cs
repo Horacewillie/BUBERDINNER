@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using BuberDinner.Application.Services.Authentication;
 using BuberDinner.Infastructure;
+using BuberDinner.Infastructure.Authentication;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -28,6 +29,7 @@ namespace BuberDinner.Api
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.Configure<JwtSettings>(Configuration.GetSection(JwtSettings.SectionName));
             services.AddApplication()
                     .AddInfastructure();
             services.AddControllers();

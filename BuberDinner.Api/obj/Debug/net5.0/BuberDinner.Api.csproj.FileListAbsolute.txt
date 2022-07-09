@@ -30,3 +30,7 @@ C:\Users\horace.saturday\Desktop\PersonalWorks\BUBERDINNER\BuberDinner.Api\bin\D
 C:\Users\horace.saturday\Desktop\PersonalWorks\BUBERDINNER\BuberDinner.Api\bin\Debug\net5.0\BuberDinner.Application.pdb
 C:\Users\horace.saturday\Desktop\PersonalWorks\BUBERDINNER\BuberDinner.Api\bin\Debug\net5.0\BuberDinner.Infastructure.pdb
 C:\Users\horace.saturday\Desktop\PersonalWorks\BUBERDINNER\BuberDinner.Api\bin\Debug\net5.0\BuberDinner.Domain.pdb
+C:\Users\horace.saturday\Desktop\PersonalWorks\BUBERDINNER\BuberDinner.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\horace.saturday\Desktop\PersonalWorks\BUBERDINNER\BuberDinner.Api\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\horace.saturday\Desktop\PersonalWorks\BUBERDINNER\BuberDinner.Api\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\horace.saturday\Desktop\PersonalWorks\BUBERDINNER\BuberDinner.Api\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
