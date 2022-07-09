@@ -1,0 +1,143 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "Microsoft.Extensions.DependencyInjection.Abstractions/5.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {}
+        }
+      },
+      "BuberDinner.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "dependencies": {
+          "BuberDinner.Domain": "1.0.0",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "5.0.0"
+        },
+        "compile": {
+          "bin/placeholder/BuberDinner.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BuberDinner.Application.dll": {}
+        }
+      },
+      "BuberDinner.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/BuberDinner.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BuberDinner.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Microsoft.Extensions.DependencyInjection.Abstractions/5.0.0": {
+      "sha512": "ORj7Zh81gC69TyvmcUm9tSzytcy8AVousi+IVRAI8nLieQjOFryRusSFh7+aLk16FN9pQNqJAiMd7BTKINK0kA==",
+      "type": "package",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/5.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/net461/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "lib/net461/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
+        "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
+        "microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+        "microsoft.extensions.dependencyinjection.abstractions.nuspec",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+      ]
+    },
+    "BuberDinner.Application/1.0.0": {
+      "type": "project",
+      "path": "../BuberDinner.Application/BuberDinner.Application.csproj",
+      "msbuildProject": "../BuberDinner.Application/BuberDinner.Application.csproj"
+    },
+    "BuberDinner.Domain/1.0.0": {
+      "type": "project",
+      "path": "../BuberDinner.Domain/BuberDinner.Domain.csproj",
+      "msbuildProject": "../BuberDinner.Domain/BuberDinner.Domain.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "BuberDinner.Application >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\horace.saturday\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\horace.saturday\\Desktop\\PersonalWorks\\BUBERDINNER\\BuberDinner.Infastructure\\BuberDinner.Infastructure.csproj",
+      "projectName": "BuberDinner.Infastructure",
+      "projectPath": "C:\\Users\\horace.saturday\\Desktop\\PersonalWorks\\BUBERDINNER\\BuberDinner.Infastructure\\BuberDinner.Infastructure.csproj",
+      "packagesPath": "C:\\Users\\horace.saturday\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\horace.saturday\\Desktop\\PersonalWorks\\BUBERDINNER\\BuberDinner.Infastructure\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\horace.saturday\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "C:\\Users\\horace.saturday\\Desktop\\PersonalWorks\\BUBERDINNER\\BuberDinner.Application\\BuberDinner.Application.csproj": {
+              "projectPath": "C:\\Users\\horace.saturday\\Desktop\\PersonalWorks\\BUBERDINNER\\BuberDinner.Application\\BuberDinner.Application.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

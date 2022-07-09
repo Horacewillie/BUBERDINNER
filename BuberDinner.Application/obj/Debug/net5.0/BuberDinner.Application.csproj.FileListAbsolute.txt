@@ -1,0 +1,15 @@
+C:\Users\horace.saturday\Desktop\PersonalWorks\BUBERDINNER\BuberDinner.Application\bin\Debug\net5.0\BuberDinner.Application.deps.json
+C:\Users\horace.saturday\Desktop\PersonalWorks\BUBERDINNER\BuberDinner.Application\bin\Debug\net5.0\BuberDinner.Application.dll
+C:\Users\horace.saturday\Desktop\PersonalWorks\BUBERDINNER\BuberDinner.Application\bin\Debug\net5.0\ref\BuberDinner.Application.dll
+C:\Users\horace.saturday\Desktop\PersonalWorks\BUBERDINNER\BuberDinner.Application\bin\Debug\net5.0\BuberDinner.Application.pdb
+C:\Users\horace.saturday\Desktop\PersonalWorks\BUBERDINNER\BuberDinner.Application\obj\Debug\net5.0\BuberDinner.Application.csproj.AssemblyReference.cache
+C:\Users\horace.saturday\Desktop\PersonalWorks\BUBERDINNER\BuberDinner.Application\obj\Debug\net5.0\BuberDinner.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\horace.saturday\Desktop\PersonalWorks\BUBERDINNER\BuberDinner.Application\obj\Debug\net5.0\BuberDinner.Application.AssemblyInfoInputs.cache
+C:\Users\horace.saturday\Desktop\PersonalWorks\BUBERDINNER\BuberDinner.Application\obj\Debug\net5.0\BuberDinner.Application.AssemblyInfo.cs
+C:\Users\horace.saturday\Desktop\PersonalWorks\BUBERDINNER\BuberDinner.Application\obj\Debug\net5.0\BuberDinner.Application.csproj.CoreCompileInputs.cache
+C:\Users\horace.saturday\Desktop\PersonalWorks\BUBERDINNER\BuberDinner.Application\obj\Debug\net5.0\BuberDinner.Application.dll
+C:\Users\horace.saturday\Desktop\PersonalWorks\BUBERDINNER\BuberDinner.Application\obj\Debug\net5.0\ref\BuberDinner.Application.dll
+C:\Users\horace.saturday\Desktop\PersonalWorks\BUBERDINNER\BuberDinner.Application\obj\Debug\net5.0\BuberDinner.Application.pdb
+C:\Users\horace.saturday\Desktop\PersonalWorks\BUBERDINNER\BuberDinner.Application\bin\Debug\net5.0\BuberDinner.Domain.dll
+C:\Users\horace.saturday\Desktop\PersonalWorks\BUBERDINNER\BuberDinner.Application\bin\Debug\net5.0\BuberDinner.Domain.pdb
+C:\Users\horace.saturday\Desktop\PersonalWorks\BUBERDINNER\BuberDinner.Application\obj\Debug\net5.0\BuberDinner.Application.csproj.CopyComplete

@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <Nullable>enable</Nullable>
+      <ImpicitUsings>enable</ImpicitUsings>
+  </PropertyGroup>
+
+
+  <ItemGroup>
+    <ProjectReference Include="..\BuberDinner.Contracts\BuberDinner.Contracts.csproj" />
+    <ProjectReference Include="..\BuberDinner.Application\BuberDinner.Application.csproj" />
+    <ProjectReference Include="..\BuberDinner.Infastructure\BuberDinner.Infastructure.csproj" />
+  </ItemGroup>
+
+</Project>

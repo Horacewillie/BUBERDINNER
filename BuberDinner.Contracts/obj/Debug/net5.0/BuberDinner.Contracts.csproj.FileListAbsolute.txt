@@ -1,0 +1,12 @@
+C:\Users\horace.saturday\Desktop\PersonalWorks\BUBERDINNER\BuberDinner.Contracts\bin\Debug\net5.0\BuberDinner.Contracts.deps.json
+C:\Users\horace.saturday\Desktop\PersonalWorks\BUBERDINNER\BuberDinner.Contracts\bin\Debug\net5.0\BuberDinner.Contracts.dll
+C:\Users\horace.saturday\Desktop\PersonalWorks\BUBERDINNER\BuberDinner.Contracts\bin\Debug\net5.0\ref\BuberDinner.Contracts.dll
+C:\Users\horace.saturday\Desktop\PersonalWorks\BUBERDINNER\BuberDinner.Contracts\bin\Debug\net5.0\BuberDinner.Contracts.pdb
+C:\Users\horace.saturday\Desktop\PersonalWorks\BUBERDINNER\BuberDinner.Contracts\obj\Debug\net5.0\BuberDinner.Contracts.csproj.AssemblyReference.cache
+C:\Users\horace.saturday\Desktop\PersonalWorks\BUBERDINNER\BuberDinner.Contracts\obj\Debug\net5.0\BuberDinner.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\horace.saturday\Desktop\PersonalWorks\BUBERDINNER\BuberDinner.Contracts\obj\Debug\net5.0\BuberDinner.Contracts.AssemblyInfoInputs.cache
+C:\Users\horace.saturday\Desktop\PersonalWorks\BUBERDINNER\BuberDinner.Contracts\obj\Debug\net5.0\BuberDinner.Contracts.AssemblyInfo.cs
+C:\Users\horace.saturday\Desktop\PersonalWorks\BUBERDINNER\BuberDinner.Contracts\obj\Debug\net5.0\BuberDinner.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\horace.saturday\Desktop\PersonalWorks\BUBERDINNER\BuberDinner.Contracts\obj\Debug\net5.0\BuberDinner.Contracts.dll
+C:\Users\horace.saturday\Desktop\PersonalWorks\BUBERDINNER\BuberDinner.Contracts\obj\Debug\net5.0\ref\BuberDinner.Contracts.dll
+C:\Users\horace.saturday\Desktop\PersonalWorks\BUBERDINNER\BuberDinner.Contracts\obj\Debug\net5.0\BuberDinner.Contracts.pdb

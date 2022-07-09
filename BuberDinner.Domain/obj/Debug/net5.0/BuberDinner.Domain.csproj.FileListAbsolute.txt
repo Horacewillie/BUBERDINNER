@@ -1,0 +1,12 @@
+C:\Users\horace.saturday\Desktop\PersonalWorks\BUBERDINNER\BuberDinner.Domain\bin\Debug\net5.0\BuberDinner.Domain.deps.json
+C:\Users\horace.saturday\Desktop\PersonalWorks\BUBERDINNER\BuberDinner.Domain\bin\Debug\net5.0\BuberDinner.Domain.dll
+C:\Users\horace.saturday\Desktop\PersonalWorks\BUBERDINNER\BuberDinner.Domain\bin\Debug\net5.0\ref\BuberDinner.Domain.dll
+C:\Users\horace.saturday\Desktop\PersonalWorks\BUBERDINNER\BuberDinner.Domain\bin\Debug\net5.0\BuberDinner.Domain.pdb
+C:\Users\horace.saturday\Desktop\PersonalWorks\BUBERDINNER\BuberDinner.Domain\obj\Debug\net5.0\BuberDinner.Domain.csproj.AssemblyReference.cache
+C:\Users\horace.saturday\Desktop\PersonalWorks\BUBERDINNER\BuberDinner.Domain\obj\Debug\net5.0\BuberDinner.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\horace.saturday\Desktop\PersonalWorks\BUBERDINNER\BuberDinner.Domain\obj\Debug\net5.0\BuberDinner.Domain.AssemblyInfoInputs.cache
+C:\Users\horace.saturday\Desktop\PersonalWorks\BUBERDINNER\BuberDinner.Domain\obj\Debug\net5.0\BuberDinner.Domain.AssemblyInfo.cs
+C:\Users\horace.saturday\Desktop\PersonalWorks\BUBERDINNER\BuberDinner.Domain\obj\Debug\net5.0\BuberDinner.Domain.csproj.CoreCompileInputs.cache
+C:\Users\horace.saturday\Desktop\PersonalWorks\BUBERDINNER\BuberDinner.Domain\obj\Debug\net5.0\BuberDinner.Domain.dll
+C:\Users\horace.saturday\Desktop\PersonalWorks\BUBERDINNER\BuberDinner.Domain\obj\Debug\net5.0\ref\BuberDinner.Domain.dll
+C:\Users\horace.saturday\Desktop\PersonalWorks\BUBERDINNER\BuberDinner.Domain\obj\Debug\net5.0\BuberDinner.Domain.pdb

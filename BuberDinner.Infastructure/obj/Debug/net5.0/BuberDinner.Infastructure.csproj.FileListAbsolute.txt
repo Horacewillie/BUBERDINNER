@@ -1,0 +1,17 @@
+C:\Users\horace.saturday\Desktop\PersonalWorks\BUBERDINNER\BuberDinner.Infastructure\bin\Debug\net5.0\BuberDinner.Infastructure.deps.json
+C:\Users\horace.saturday\Desktop\PersonalWorks\BUBERDINNER\BuberDinner.Infastructure\bin\Debug\net5.0\BuberDinner.Infastructure.dll
+C:\Users\horace.saturday\Desktop\PersonalWorks\BUBERDINNER\BuberDinner.Infastructure\bin\Debug\net5.0\ref\BuberDinner.Infastructure.dll
+C:\Users\horace.saturday\Desktop\PersonalWorks\BUBERDINNER\BuberDinner.Infastructure\bin\Debug\net5.0\BuberDinner.Infastructure.pdb
+C:\Users\horace.saturday\Desktop\PersonalWorks\BUBERDINNER\BuberDinner.Infastructure\obj\Debug\net5.0\BuberDinner.Infastructure.csproj.AssemblyReference.cache
+C:\Users\horace.saturday\Desktop\PersonalWorks\BUBERDINNER\BuberDinner.Infastructure\obj\Debug\net5.0\BuberDinner.Infastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\horace.saturday\Desktop\PersonalWorks\BUBERDINNER\BuberDinner.Infastructure\obj\Debug\net5.0\BuberDinner.Infastructure.AssemblyInfoInputs.cache
+C:\Users\horace.saturday\Desktop\PersonalWorks\BUBERDINNER\BuberDinner.Infastructure\obj\Debug\net5.0\BuberDinner.Infastructure.AssemblyInfo.cs
+C:\Users\horace.saturday\Desktop\PersonalWorks\BUBERDINNER\BuberDinner.Infastructure\obj\Debug\net5.0\BuberDinner.Infastructure.csproj.CoreCompileInputs.cache
+C:\Users\horace.saturday\Desktop\PersonalWorks\BUBERDINNER\BuberDinner.Infastructure\obj\Debug\net5.0\BuberDinner.Infastructure.dll
+C:\Users\horace.saturday\Desktop\PersonalWorks\BUBERDINNER\BuberDinner.Infastructure\obj\Debug\net5.0\ref\BuberDinner.Infastructure.dll
+C:\Users\horace.saturday\Desktop\PersonalWorks\BUBERDINNER\BuberDinner.Infastructure\obj\Debug\net5.0\BuberDinner.Infastructure.pdb
+C:\Users\horace.saturday\Desktop\PersonalWorks\BUBERDINNER\BuberDinner.Infastructure\bin\Debug\net5.0\BuberDinner.Application.dll
+C:\Users\horace.saturday\Desktop\PersonalWorks\BUBERDINNER\BuberDinner.Infastructure\bin\Debug\net5.0\BuberDinner.Domain.dll
+C:\Users\horace.saturday\Desktop\PersonalWorks\BUBERDINNER\BuberDinner.Infastructure\bin\Debug\net5.0\BuberDinner.Application.pdb
+C:\Users\horace.saturday\Desktop\PersonalWorks\BUBERDINNER\BuberDinner.Infastructure\bin\Debug\net5.0\BuberDinner.Domain.pdb
+C:\Users\horace.saturday\Desktop\PersonalWorks\BUBERDINNER\BuberDinner.Infastructure\obj\Debug\net5.0\BuberDinner.Infastructure.csproj.CopyComplete

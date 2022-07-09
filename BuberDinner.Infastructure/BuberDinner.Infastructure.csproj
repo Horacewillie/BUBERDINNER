@@ -1,0 +1,13 @@
+ <Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\BuberDinner.Application\BuberDinner.Application.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+     <ImpicitUsings>enable</ImpicitUsings>
+     <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>
