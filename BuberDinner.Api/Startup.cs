@@ -13,7 +13,11 @@ using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
-
+using BuberDinner.Api.Middleware;
+using BuberDinner.Api.Filters;
+using Microsoft.AspNetCore.Mvc.Infrastructure;
+using BuberDinner.Api.Error;
+using Microsoft.AspNetCore.Http;
 
 namespace BuberDinner.Api
 {
@@ -32,13 +36,30 @@ namespace BuberDinner.Api
             services.Configure<JwtSettings>(Configuration.GetSection(JwtSettings.SectionName));
             services.AddApplication()
                     .AddInfastructure();
-            services.AddControllers();
             
+            //ExceptionHandlingFilterAttribute
+            // services.AddControllers(options => options.Filters.Add(typeof(ErrorHandlingFilterAttribute)));
+
+             services.AddControllers();
+             //services.AddSingleton<ProblemDetailsFactory, BuberDinnerProblemDetailsFactory>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
         {
+            //Error Handling Middleware
+            //app.UseMiddleware<ErrorHandlingMiddleware>();
+            
+            //GlobalErrorHandling
+            app.UseExceptionHandler("/error");
+
+            //Using minimal api approach to avoid creating an error controller
+
+     //    app.Map("/error", (HttpContext context) => 
+        //    {
+        //         Exception? exception = httpContext.Features.Get<IExceptionHandlerFeature>()?.Error;
+        //         return Results.Problem;
+        //    });
 
             app.UseHttpsRedirection();
             app.UseRouting();

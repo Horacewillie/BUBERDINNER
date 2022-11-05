@@ -1,11 +1,10 @@
 using Microsoft.AspNetCore.Mvc;
 using BuberDinner.Contracts.Authentication;
 using BuberDinner.Application.Services.Authentication;
+using BuberDinner.Domain.Entities;
 
 namespace BuberDinner.Api.Controllers
 {
-   
-    
     
     [ApiController]
     [Route("auth")]
@@ -24,12 +23,13 @@ namespace BuberDinner.Api.Controllers
                 request.Password,
                 request.FirstName,
                 request.LastName);
-            var response = new AuthenticationResponse(
-                authRegisterResult.Id,
-                authRegisterResult.Email,
-                authRegisterResult.Token,
-                authRegisterResult.FirstName,
-                authRegisterResult.LastName);
+
+            AuthenticationResponse? response = new (
+                authRegisterResult.user.Id, 
+                authRegisterResult.user.Email, 
+                authRegisterResult.Token, 
+                authRegisterResult.user.FirstName, 
+                authRegisterResult.user.LastName);
             return Ok(response);
         }
 
@@ -43,11 +43,11 @@ namespace BuberDinner.Api.Controllers
                 request.Password);
 
              var response = new AuthenticationResponse(
-                authLoginResult.Id,
-                authLoginResult.Email,
+                authLoginResult.user.Id,
+                authLoginResult.user.Email,
                 authLoginResult.Token,
-                authLoginResult.FirstName,
-                authLoginResult.LastName);
+                authLoginResult.user.FirstName,
+                authLoginResult.user.LastName);
             return Ok(response);
         }
     }
